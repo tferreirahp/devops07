@@ -5,4 +5,8 @@
 ::1     localhost ip6-localhost ip6-loopback
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
+<<<<<<< HEAD
 10.0.3.15 debian9
+=======
+10.0.3.20 interno
+>>>>>>> 7b32d63ab1c20c15d4cdf989dc2b033fb917d119
