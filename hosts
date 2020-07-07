@@ -10,4 +10,6 @@ ff02::2 ip6-allrouters
 =======
 10.0.3.20 interno
 >>>>>>> 7b32d63ab1c20c15d4cdf989dc2b033fb917d119
-10.0.3.30 datacenter
+10.0.3.30 datacente
+10.0.0.40 samba
+10.0.0.50 funk
